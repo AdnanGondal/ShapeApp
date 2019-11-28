@@ -17,6 +17,11 @@ public class ColourSelector extends JPanel {
                         btn1, "Choose Colour", currentColour);
                 currentColour=newColour;
                 btn1.setBackground(currentColour);
+
+
+
+
+
             }
         });
     }

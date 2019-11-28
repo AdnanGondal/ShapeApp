@@ -86,7 +86,7 @@ public class DrawingUIController {
         mainPanel.add(drawing);
 
 
-    };
+    }
 
     public JPanel getMainPanel() {
         return mainPanel;
